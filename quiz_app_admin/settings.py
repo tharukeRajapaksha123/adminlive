@@ -18,7 +18,7 @@ SECRET_KEY = 'django-insecure-4xog*261u9ps50yuha1!rr!)c@im$^-#d!!d!cetp6a(*(%ge&
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'quiz-app-admin.herokuapp.com/',
+    'radiant-earth-96606.herokuapp.com',
     '127.0.0.1',
 ]
 
